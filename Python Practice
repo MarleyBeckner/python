@@ -1,0 +1,8 @@
+adj = input("adjective: ")
+verb1=input("verb: ")
+verb2=input("verb: ")
+person=input("person: ")
+
+madlib = f"marley is so {adj}!He always looks so good with all of his fits. i love to {verb1} and think {verb2} like {person}"
+
+print(madlib)
